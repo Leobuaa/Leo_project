@@ -15,6 +15,8 @@
 #### (2) 菜谱列表/详情页
 <img src="https://github.com/user-attachments/assets/f957d582-4f60-42dc-8a8b-a14e39fdff19" width=300 />
 <img src="https://github.com/user-attachments/assets/4aaf594c-709e-4890-92ca-4ace16200938" width=300 />
+<img src="https://github.com/user-attachments/assets/92025dc9-9131-4c75-ae69-9b942a4af008" width=300 />
+
 
 #### (3) 门店/成员管理页
 <img src="https://github.com/user-attachments/assets/f6d6430c-988b-4822-bbf3-6eb075f74e5a" width=300 />
